@@ -5,6 +5,7 @@ building off of https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogInOutSe
 
 int sensorValue;
 float voltageValue;
+float Temp_C;
 
 void setup() {
   // initialize serial communications at 9600 bps:
